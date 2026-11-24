@@ -6,7 +6,7 @@ The project investigates how routinely collected health and lifestyle attributes
 
 ## Project Contents
 
-- `project (2).ipynb` — Jupyter Notebook containing the research workflow and experiments.
+- `notebook.ipynb` — Jupyter Notebook containing the research workflow and experiments.
 - `predictive system.py.py` — prediction-system implementation.
 - `cvd prediction web app.py` — Streamlit web application.
 - `cardiovascular_trained_model.sav` — saved trained model artifact.
